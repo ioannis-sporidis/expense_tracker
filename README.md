@@ -1,6 +1,6 @@
 # Expense Tracker
 
-https://ioannis-sporidis.github.io/react_expense_tracker/
+https://ioannis-sporidis.github.io/expense_tracker/
 
 ## Next Steps
 
