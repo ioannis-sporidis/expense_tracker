@@ -1,6 +1,6 @@
 # Expense Tracker
 
-Click [here](https://ioannis-sporidis.github.io/ra-hacker-news/) to check out the app
+Click [here](https://ioannis-sporidis.github.io/ra-expense-tracker/) to check out the app
 
 ## Dependencies
 
