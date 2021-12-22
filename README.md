@@ -5,7 +5,7 @@ Click [here](https://ioannis-sporidis.github.io/ra-expense-tracker/) to check ou
 ## Dependencies
 
 - [React](https://reactjs.org/)
-- [NPM gh-pages](https://www.npmjs.com/package/gh-pages)
+- [NPM Github Pages](https://www.npmjs.com/package/gh-pages)
 
 ## Next Steps
 - Use Material-UI.
