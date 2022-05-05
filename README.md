@@ -1,6 +1,6 @@
 # Expense Tracker
 
-Check out the app [here](https://ioannis-sporidis.github.io/ra-expense-tracker/)
+Check out the app [here](https://the-fetaverse.github.io/ra-expense-tracker/)
 
 ## Dependencies
 
